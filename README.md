@@ -33,9 +33,9 @@ O código exibe:
 - Bibliotecas bip39 e bitcoinjs-lib
 
 ## Instalação
-1. Clone este repositório
-   git clone https://github.com/diogoditorres/bitcoin-wallet-generator.git
-2. Instale as dependências:
-   npm install bip39 bitcoinjs-lib
-3. Execute o script:
-   node bitcoinWallet.js
+### 1. Clone este repositório:
+git clone https://github.com/diogoditorres/bitcoin-wallet-generator.git
+### 2. Instale as dependências:
+npm install bip39 bitcoinjs-lib
+### 3. Execute o script:
+node bitcoinWallet.js
